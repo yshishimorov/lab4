@@ -1,0 +1,26 @@
+# Игнорируемые файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Окружения и сборка
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Тестирование и отчеты
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Редакторы и IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
